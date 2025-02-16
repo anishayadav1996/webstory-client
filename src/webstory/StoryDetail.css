@@ -1,0 +1,21 @@
+.story-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #1a1a1a;
+    padding: 20px;
+}
+
+.loading-text {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 18px;
+    color: #ccc;
+}
+
+.story-content {
+    color: white;
+    font-size: 16px;
+    text-align: center;
+}
